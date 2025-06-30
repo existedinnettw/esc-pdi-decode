@@ -1,0 +1,16 @@
+name: esc_pdi_decode
+description: ESC SPI packet decode - Dart CLI application for decoding EtherCAT Slave Controller packets
+version: 1.0.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  args: ^2.4.2
+  csv: ^6.0.0
+  result_dart: ^1.1.0
+  ansicolor: ^2.0.3
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
